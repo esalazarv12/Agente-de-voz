@@ -1,0 +1,7 @@
+ollama3
+pyttsx3
+pywin32
+sounddevice
+numpy
+asyncio
+soundfile
