@@ -1,7 +1,8 @@
-ollama3
+openai-whisper
+sounddevice
+soundfile
+numpy
 pyttsx3
 pywin32
-sounddevice
-numpy
-asyncio
-soundfile
+ollama
+torch
