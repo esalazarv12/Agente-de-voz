@@ -458,5 +458,5 @@ Se verificó que los módulos conservaran legibilidad y separación de responsab
 
 # 👨‍💻 Autor
 
-Proyecto desarrollado con fines educativos para comprender la arquitectura de agentes conversacionales de voz en tiempo real utilizando Python puro y programación asíncrona.
+Proyecto desarrollado con fines educativos para comprender la arquitectura de agentes conversacionales de voz en tiempo real utilizando Python puro y programación asíncrona
 >>>>>>> 6666a040a3638b836004ae20abb7d9327ff00934
