@@ -443,6 +443,19 @@ Cada módulo funciona de manera independiente y se comunica utilizando colas as�
 
 ---
 
+## 🧪 QA en el Seam
+
+Después de completar cada issue se realizó:
+
+* Revisión manual de commits
+* Validación local del sistema
+* Verificación del pipeline async
+* Inspección visual del código
+* Revisión de acoplamiento entre módulos
+
+Se verificó que los módulos conservaran legibilidad y separación de responsabilidades.
+
+
 # 👨‍💻 Autor
 
 Proyecto desarrollado con fines educativos para comprender la arquitectura de agentes conversacionales de voz en tiempo real utilizando Python puro y programación asíncrona.
