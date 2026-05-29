@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎤 Agente de Voz Conversacional con Python y asyncio
 
 Proyecto desarrollado en Python puro utilizando `asyncio` para comprender la arquitectura interna detrás de frameworks modernos de agentes conversacionales en tiempo real como Pipecat y LiveKit Agents.
