@@ -231,6 +231,13 @@ Después de completar cada issue se realizó:
 
 Se verificó que los módulos conservaran legibilidad y separación de responsabilidades.
 
+# 📚 Software Journey
+
+La documentación completa del proceso de desarrollo, decisiones arquitectónicas y análisis técnico del proyecto puede encontrarse en:
+
+```text
+/app/docs
+
 
 # 👨‍💻 Autor
 
