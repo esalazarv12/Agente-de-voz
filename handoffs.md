@@ -1,4 +1,4 @@
-Sprint Actual
+Sprint Actual.
 
 Se implementó un agente conversacional de voz en tiempo real utilizando Python puro y programación asíncrona con asyncio.
 
