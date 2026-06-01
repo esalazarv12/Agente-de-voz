@@ -241,5 +241,5 @@ La documentación completa del proceso de desarrollo, decisiones arquitectónica
 
 # 👨‍💻 Autor
 
-Proyecto desarrollado con fines educativos para comprender la arquitectura de agentes conversacionales de voz en tiempo real utilizando Python puro y programación asíncrona
+Proyecto desarrollado con fines educativos para comprender la arquitectura de agentes conversacionales de voz en tiempo real utilizando Python puro y programación asíncrona.
 
