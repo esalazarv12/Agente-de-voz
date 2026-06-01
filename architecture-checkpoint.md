@@ -98,7 +98,7 @@ La arquitectura event-driven completa se pospone para futuras iteraciones debido
 
 ---
 
-# 🚀 Resultado Esperado
+# 🚀 Resultado Esperado.
 
 Con esta mejora:
 
